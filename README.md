@@ -35,3 +35,6 @@ And in order to you need a really good memory so that you can execute more flip 
 -install, HTML, PHP, JAVASCRIPT.
 -Use VSCODE.
 -Just run the code in the IDE.
+
+IMAGES
+https://drive.google.com/drive/u/0/folders/1ZmFjL7xm5SOx2f_N-CR2WNPxMRUi7kvm
